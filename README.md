@@ -69,9 +69,13 @@ This approach helps ensure that uncertain or high-risk cases are not missed, sup
 
 ---
 
-## Try It Out
+##  Try It Out
 
-You can explore the model and test the application via Hugging Face:
+You can test the model in your browser via Hugging Face Spaces:
 
-- Model Page: [Kidney CT Classifier on Hugging Face](https://huggingface.co/TaliZG03/kidney_normal_CT_classifier_model)  
+-  **Live Demo**: [Kidney CT Classifier Web App](https://huggingface.co/spaces/TaliZG03/kidney_CT_classifier_model)
+
+You can also view or download the trained model directly:
+
+-  **Model Page**: [Kidney Normal CT Classifier Model](https://huggingface.co/TaliZG03/kidney_normal_CT_classifier_model)
 
